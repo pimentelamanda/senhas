@@ -103,8 +103,13 @@ body{
     border-top: 2px solid var(--borda);
     border-bottom: 2px solid var(--borda);
     margin: 0;
+    font-size: 24px;  
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
     font-size: 24px;
-    
 }
 
 @media screen and (min-width: 768px) {
