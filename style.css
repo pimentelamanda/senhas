@@ -2,7 +2,7 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #001763;
+    --cor-de-fundo: #06048a;
     --fundo-senha: #ff8bcf;
     --fundo-texto: #72b4ff;
     --borda: #ffffff;
@@ -60,7 +60,10 @@ body{
 }
 
 .parametro{
-    background-color: var(--fundo-texto);
+    background-color: var(--fund
+Fraca
+
+o-texto);
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
